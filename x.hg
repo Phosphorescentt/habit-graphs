@@ -1,0 +1,9 @@
+habits:
+test zero
+test one
+test two
+dependencies:
+0,1,10
+0,2,3
+1,0,5
+2,1,8
